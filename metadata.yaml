@@ -1,0 +1,58 @@
+_repo: Lectures-on-the-true-the-beautiful-and-the-good_36208
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Wight, O. W. (Orlando Williams)
+    alias: Wight, Orlando Williams
+    birthdate: 1824
+    deathdate: 1888
+    gutenberg_agent_id: '38138'
+    url: http://www.gutenberg.org/2009/agents/38138
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Cousin, Victor
+    alias: Cousin, Vittorio
+    birthdate: 1792
+    deathdate: 1867
+    gutenberg_agent_id: '38137'
+    url: http://www.gutenberg.org/2009/agents/38137
+description: '"Explains that the eighteen lectures that compose this volume have in
+  fact the particular trait that they present a regular exposition of the doctrine
+  which was at first fixed in our mind, which has not ceased to preside over our labors.
+  This book, then, contains the abridged but exact expression of our convictions on
+  the fundamental points of philosophic science. In it will be openly seen the method
+  that is the soul of our enterprise, our principles, our processes, our results.
+  Under these three heads, the True, the Beautiful, the Good, we embrace psychology,
+  placed by us at the head of all philosophy, aesthetics, ethics, natural right, even
+  public right to a certain extent, finally theodicea, that perilous rendezvous of
+  all systems, where different principles are condemned or justified by their consequences.
+  It is the affair of our book to plead its own cause. We only desire that it may
+  be appreciated and judged according to what it really is, and not according to an
+  opinion too much accredited. We declare that eclecticism is very dear to us, for
+  it is in our eyes the height of the history of philosophy; but the source of that
+  light is elsewhere. Eclecticism is one of the most important and most useful applications
+  of the philosophy which we teach, but it is not its principle. Our true doctrine,
+  our true flag is spiritualism, that philosophy as solid as generous, which began
+  with Socrates and Plato, which the Gospel has spread abroad in the world, and which
+  Descartes put under the severe forms of modern genius. May our voice be heard by
+  new generations as it was by the serious youth of the Restoration!"--Preface. (PsycINFO
+  Database Record (c) 2008 APA, all rights reserved).'
+gutenberg_bookshelf: Philosophy
+gutenberg_issued: '2011-05-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36208'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'B'
+- !lcsh 'Aesthetics'
+- !lcsh 'Truth'
+- !lcsh 'Ethics'
+title: Lectures on the true, the beautiful and the good
+url: http://www.gutenberg.org/ebooks/36208
